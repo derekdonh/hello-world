@@ -1,2 +1,2 @@
 # hello-world
-my first program on 他和 platform
+my first program on this platform
